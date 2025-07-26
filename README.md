@@ -46,7 +46,7 @@ screen -S synq
 2. **Run the command**
 
 ```bash
-git clone https://github.com/FragIfty01/Multisynq-Guide && cd Multisynq-Guide && chmod +x setup.sh && sudo ./setup.sh
+git clone https://github.com/arcxteam/multisynq-node && cd multisynq-node && chmod +x install.sh && sudo ./install.sh
   ```
 
 3. **Follow all the prompts**
